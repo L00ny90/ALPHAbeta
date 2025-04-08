@@ -1,0 +1,6 @@
+{
+    "Coding": {
+        "Kapselung": "Klassenzugriffskontrolle(InfoHiding) : \"private\" - innerhalb der Klasse, \"public\" - für andere Klassen sichtbar und \"protected\" -  Nur die Klassen, die erben.\n\nin C# aufpassen: friendly-Klassen möglich , da näher an Hardware (Flexibilität)",
+        "input()-Funktion - PY": "Benutzereingabe. Zb. name = input(\"Wie heißt Du?: \") Zum Ausgeben: print(f\"Hallo, {name}!\")"
+    }
+}
