@@ -38,7 +38,7 @@ class VocabularyApp(QWidget):
         self.setGeometry(100, 100, 400, 300)
 
         # Setze das Icon für die Anwendung
-        self.setWindowIcon(QIcon("icon.png"))  # Pfad zu deinem Icon setzen
+        self.setWindowIcon(QIcon("icon.png"))
 
         self.vocab_dict = {}
         self.selected_topic = None
